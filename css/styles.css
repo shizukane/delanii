@@ -1,13 +1,12 @@
-.well{
-    max-height: 100px;
-    margin-bottom: 500px;
-}
-.carousel-caption{
-    text-align: center;
-    padding-top: 500px;
 
-    
-}
+ 
+
 .container-fluid{
     text-align: center;
+}
+.services{
+    position: relative;
+    margin-bottom: 100px;
+    text-align: center;
+    
 }
