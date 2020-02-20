@@ -23,3 +23,77 @@ p{
 h3{
     font-family: sans-serif;
 }
+.contact{
+    position: relative;
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 100px;
+   
+    padding-top: 200px;
+}
+.forms{
+    margin-bottom: 20%;
+}
+#design{
+    display: none;
+}
+#develop{
+    display: none;
+}
+#product{
+    display: none;
+}
+.darolle1{
+    position: absolute;
+}
+.overlay1{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%;
+    displa
+}
+.overlay2{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%
+}
+.overlay3{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%
+}
+.overlay4{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%
+}
+.overlay5{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%
+}
+.overlay6{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%
+}
+.overlay7{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%
+}
+.overlay8{
+    display: none;
+    background-color: black;
+    margin-bottom: 12%;
+    padding: 5%
+    
+}
+
