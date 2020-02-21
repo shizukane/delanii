@@ -41,7 +41,7 @@ $(document).ready(function(){
         var name = $("input#name").val();
         var mail = $("input#email").val();
         var message = $("textarea").val();
-        $ (alert("We have received your details.Thank you for your submission"))
+        $ (alert("We have received your details" + #name +))
     });
     
 });
