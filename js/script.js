@@ -1,47 +1,47 @@
 $(document).ready(function(){
     $("#designimg , #design").click(function(){
-        $ ("#design").toggle()
-        $ ("#designimg").toggle()
+        $ ("#design").fadeToggle()
+        $ ("#designimg").fadeToggle()
     });
     $("#developimg , #develop").click(function(){
-        $("#develop").toggle()
-        $("#developimg").toggle()
+        $("#develop").slideToggle()
+        $("#developimg").slideToggle()
     });
     $("#productimg , #product").click(function(){
-        $("#product").toggle()
-        $("#productimg").toggle()
+        $("#product").fadeToggle()
+        $("#productimg").fadeToggle()
     });
 
     $(".myportfolio1").hover(function(){
-        $(".overlay1").toggle()
+        $(".overlay1").slideToggle()
     });
     $(".myportfolio2").hover(function(){
-        $(".overlay2").toggle()
+        $(".overlay2").slideToggle()
     });
     $(".myportfolio3").hover(function(){
-        $(".overlay3").toggle()
+        $(".overlay3").slideToggle()
     });
     $(".myportfolio4").hover(function(){
-        $(".overlay4").toggle()
+        $(".overlay4").slideToggle()
     });
     $(".myportfolio5").hover(function(){
-        $(".overlay5").toggle()
+        $(".overlay5").slideToggle()
     });
     $(".myportfolio6").hover(function(){
-        $(".overlay6").toggle()
+        $(".overlay6").slideToggle()
     });
     $(".myportfolio7").hover(function(){
-        $(".overlay7").toggle()
+        $(".overlay7").slideToggle()
     });
     $(".myportfolio8").hover(function(){
-        $(".overlay8").toggle()
+        $(".overlay8").slideToggle()
     });
 
     $("form#form").submit(function(){
         var name = $("input#name").val();
         var mail = $("input#email").val();
         var message = $("textarea").val();
-        $ (alert("We have received your details" + #name +))
+        $ (alert("We have received your details.Thank you for your submission"))
     });
     
 });

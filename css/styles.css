@@ -42,14 +42,13 @@ h3{
 #product{
     display: none;
 }
-.darolle1{
-    position: absolute;
-}
+
 .overlay1{
     display: none;
     background-color: black;
     margin-bottom: 12%;
     padding: 5%;
+    backface-visibility: hidden;
 }
 .overlay2{
     display: none;
