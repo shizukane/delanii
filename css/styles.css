@@ -49,48 +49,58 @@ h3{
     margin-bottom: 12%;
     padding: 5%;
     backface-visibility: hidden;
+    border-radius: 100%;
 }
 .overlay2{
     display: none;
     background-color: black;
     margin-bottom: 12%;
-    padding: 5%
+    padding: 5%;
+    border-radius: 100%;
+    
 }
 .overlay3{
     display: none;
     background-color: black;
     margin-bottom: 12%;
-    padding: 5%
+    padding: 5%;
+    border-radius: 100%;
 }
 .overlay4{
     display: none;
     background-color: black;
     margin-bottom: 12%;
-    padding: 5%
+    padding: 5%;
+    border-radius: 100%;
 }
 .overlay5{
     display: none;
     background-color: black;
     margin-bottom: 12%;
-    padding: 5%
+    padding: 5%;
+    border-radius: 100%;
 }
 .overlay6{
     display: none;
     background-color: black;
     margin-bottom: 12%;
-    padding: 5%
+    padding: 5%;
+    border-radius: 100%;
 }
 .overlay7{
     display: none;
     background-color: black;
     margin-bottom: 12%;
-    padding: 5%
+    padding: 5%;
+    border-radius: 100%;
 }
 .overlay8{
     display: none;
     background-color: black;
     margin-bottom: 12%;
-    padding: 5%
+    padding: 5%;
+    border-radius: 100%;
+    float: left;
     
 }
 
